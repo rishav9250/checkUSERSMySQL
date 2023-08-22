@@ -1,2 +1,1 @@
-# checkUSERSMySQL
-check USERS in MySQL
+mysql> SELECT USER FROM mysql.user;  
